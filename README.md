@@ -1,3 +1,5 @@
+![CFG Logo](logo.png)
+
 # Analysis of the London housing market
 
 ## Description
