@@ -1,4 +1,6 @@
-<img src="logo.png"  width="400" height="400">
+<p align="center">
+  <img src="logo.png"  width="300" height="300">
+</p>
 
 # Analysis of the London housing market
 
