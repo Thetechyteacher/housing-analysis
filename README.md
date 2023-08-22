@@ -1,4 +1,4 @@
-![CFG Logo](logo.png)
+![CFG Logo](logo.png  =400x400)
 
 # Analysis of the London housing market
 
