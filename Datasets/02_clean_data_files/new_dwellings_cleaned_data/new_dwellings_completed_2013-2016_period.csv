@@ -1,0 +1,133 @@
+,Year,Local Authority Districts,Private Enterprise,Housing Associations,Local Authority
+0,2013,Barking and Dagenham,260,100,0
+1,2013,Barnet,800,340,0
+2,2013,Bexley,240,80,0
+3,2013,Brent,160,60,0
+4,2013,Bromley,520,80,0
+5,2013,Camden,270,160,0
+6,2013,City of London,0,0,0
+7,2013,Croydon,1420,140,0
+8,2013,Ealing,500,420,0
+9,2013,Enfield,160,210,0
+10,2013,Greenwich,750,310,0
+11,2013,Hackney,680,280,0
+12,2013,Hammersmith and Fulham,190,70,0
+13,2013,Haringey,70,120,0
+14,2013,Harrow,110,40,0
+15,2013,Havering,510,320,0
+16,2013,Hillingdon,260,10,0
+17,2013,Hounslow,310,70,0
+18,2013,Islington,200,110,0
+19,2013,Kensington and Chelsea,30,0,0
+20,2013,Kingston upon Thames,100,20,0
+21,2013,Lambeth,180,290,0
+22,2013,Lewisham,250,320,0
+23,2013,Merton,200,210,0
+24,2013,Newham,470,410,0
+25,2013,Redbridge,480,0,0
+26,2013,Richmond upon Thames,70,100,0
+27,2013,Southwark,460,270,20
+28,2013,Sutton,190,0,0
+29,2013,Tower Hamlets,1100,290,0
+30,2013,Waltham Forest,70,180,0
+31,2013,Wandsworth,380,40,0
+32,2013,Westminster,90,110,0
+33,2014,Barking and Dagenham,160,320,0
+34,2014,Barnet,910,440,0
+35,2014,Bexley,320,60,0
+36,2014,Brent,190,20,0
+37,2014,Bromley,460,70,0
+38,2014,Camden,170,20,10
+39,2014,City of London,160,0,0
+40,2014,Croydon,470,210,20
+41,2014,Ealing,220,320,50
+42,2014,Enfield,140,110,0
+43,2014,Greenwich,1120,220,0
+44,2014,Hackney,270,620,0
+45,2014,Hammersmith and Fulham,150,50,0
+46,2014,Haringey,60,50,0
+47,2014,Harrow,80,0,0
+48,2014,Havering,560,240,0
+49,2014,Hillingdon,310,30,0
+50,2014,Hounslow,530,550,50
+51,2014,Islington,180,20,0
+52,2014,Kensington and Chelsea,60,10,0
+53,2014,Kingston upon Thames,160,10,0
+54,2014,Lambeth,600,370,0
+55,2014,Lewisham,210,160,0
+56,2014,Merton,380,160,0
+57,2014,Newham,1640,880,0
+58,2014,Redbridge,310,10,0
+59,2014,Richmond upon Thames,60,30,0
+60,2014,Southwark,370,140,10
+61,2014,Sutton,70,150,0
+62,2014,Tower Hamlets,1230,280,130
+63,2014,Waltham Forest,200,270,0
+64,2014,Wandsworth,170,80,0
+65,2014,Westminster,260,70,0
+66,2015,Barking and Dagenham,300,360,0
+67,2015,Barnet,820,680,0
+68,2015,Bexley,560,30,0
+69,2015,Brent,520,180,0
+70,2015,Bromley,600,80,0
+71,2015,Camden,600,120,0
+72,2015,City of London,10,0,0
+73,2015,Croydon,1320,330,30
+74,2015,Ealing,510,260,0
+75,2015,Enfield,270,340,0
+76,2015,Greenwich,1100,770,0
+77,2015,Hackney,530,100,0
+78,2015,Hammersmith and Fulham,280,0,0
+79,2015,Haringey,390,280,0
+80,2015,Harrow,480,90,0
+81,2015,Havering,770,320,0
+82,2015,Hillingdon,430,130,0
+83,2015,Hounslow,640,130,70
+84,2015,Islington,70,110,20
+85,2015,Kensington and Chelsea,780,340,0
+86,2015,Kingston upon Thames,30,10,0
+87,2015,Lambeth,700,620,0
+88,2015,Lewisham,490,630,0
+89,2015,Merton,110,50,0
+90,2015,Newham,620,70,0
+91,2015,Redbridge,480,10,0
+92,2015,Richmond upon Thames,90,30,0
+93,2015,Southwark,980,500,0
+94,2015,Sutton,180,20,0
+95,2015,Tower Hamlets,830,300,0
+96,2015,Waltham Forest,470,620,0
+97,2015,Wandsworth,540,220,0
+98,2015,Westminster,90,80,0
+99,2016,Barking and Dagenham,130,130,120
+100,2016,Barnet,1110,740,20
+101,2016,Bexley,250,120,0
+102,2016,Brent,390,130,0
+103,2016,Bromley,480,90,0
+104,2016,Camden,330,60,30
+105,2016,City of London,10,0,0
+106,2016,Croydon,2220,80,0
+107,2016,Ealing,320,150,0
+108,2016,Enfield,140,370,0
+109,2016,Greenwich,1400,430,0
+110,2016,Hackney,430,380,0
+111,2016,Hammersmith and Fulham,480,60,0
+112,2016,Haringey,300,20,0
+113,2016,Harrow,140,20,0
+114,2016,Havering,190,10,10
+115,2016,Hillingdon,470,70,0
+116,2016,Hounslow,520,0,60
+117,2016,Islington,180,20,10
+118,2016,Kensington and Chelsea,50,30,10
+119,2016,Kingston upon Thames,50,0,0
+120,2016,Lambeth,430,70,0
+121,2016,Lewisham,540,290,0
+122,2016,Merton,170,30,0
+123,2016,Newham,650,260,30
+124,2016,Redbridge,540,50,0
+125,2016,Richmond upon Thames,120,20,0
+126,2016,Southwark,1400,290,40
+127,2016,Sutton,220,80,0
+128,2016,Tower Hamlets,1570,290,70
+129,2016,Waltham Forest,550,360,10
+130,2016,Wandsworth,550,120,0
+131,2016,Westminster,100,250,0
