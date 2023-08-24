@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png"  width="300" height="300">
+  <img src="https://i.imgur.com/UYWuqOF.png"  width="300" height="300">
 </p>
 
 # Analysis of the London housing market
