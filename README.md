@@ -22,6 +22,7 @@ The following libraries need to be installed before running the scripts and note
 - Seaborn: [https://pypi.org/project/seaborn/](https://pypi.org/project/seaborn/)
 - Plotly: [https://pypi.org/project/plotly/](https://pypi.org/project/plotly/)
 - Eurostat: [https://pypi.org/project/eurostat/](https://pypi.org/project/eurostat/)
+- Bar_chart_race: [https://pypi.org/project/bar-chart-race/](https://pypi.org/project/bar-chart-race/)
 
 ## How to run
 
@@ -32,8 +33,6 @@ All the datasets used for this project are included in the `datasets` folder.
 ## Folder structure
 
     ├── Final report and presentation 
-        ├── Project Report.pdf
-        └── Presentation.pdf
     ├── Jupyter Notebooks 
         ├── 01_data_preprocessing_and_cleaning
               └── new_dwellings_cleaning_process
